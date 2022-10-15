@@ -1,1 +1,10 @@
 venv/
+project/__pycache__/
+app/__pycache__/
+scripts/__pycache__/
+app/migrations/
+datafiles/migrations/
+scripts/migrations/
+datafiles/__pycache__/
+app/migrations/__pycache__/
+.env

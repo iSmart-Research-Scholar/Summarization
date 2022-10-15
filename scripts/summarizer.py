@@ -61,4 +61,4 @@ def summarize(file_location):
     summary = ' '.join(summary_sentences)
     return summary
 
-print(summarize("/Users/anilaswani/Desktop/Summarization/radha2016.pdf"))
+# print(summarize("/Users/anilaswani/Desktop/Summarization/radha2016.pdf"))
