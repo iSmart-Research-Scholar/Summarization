@@ -6,6 +6,9 @@ import nltk
 import PyPDF2
 import warnings
 
+nltk.data.path.append('datafiles/nltk/stopwords')
+nltk.data.path.append('datafiles/nltk/punkt')
+
 # ignore warnings of deprecation
 warnings.filterwarnings("ignore")
 
